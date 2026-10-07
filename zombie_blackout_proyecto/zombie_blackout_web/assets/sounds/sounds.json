@@ -1,0 +1,123 @@
+{
+ "shot": {
+  "files": [
+   "shot.wav"
+  ],
+  "vols": [
+   0.85
+  ],
+  "list": false
+ },
+ "heavy_shot": {
+  "files": [
+   "heavy_shot.wav"
+  ],
+  "vols": [
+   1.0
+  ],
+  "list": false
+ },
+ "hit": {
+  "files": [
+   "hit.wav"
+  ],
+  "vols": [
+   0.8
+  ],
+  "list": false
+ },
+ "hurt": {
+  "files": [
+   "hurt.wav"
+  ],
+  "vols": [
+   0.9
+  ],
+  "list": false
+ },
+ "fence_break": {
+  "files": [
+   "fence_break.wav"
+  ],
+  "vols": [
+   0.85
+  ],
+  "list": false
+ },
+ "shield_hit": {
+  "files": [
+   "shield_hit.wav"
+  ],
+  "vols": [
+   0.7
+  ],
+  "list": false
+ },
+ "boom": {
+  "files": [
+   "boom.wav"
+  ],
+  "vols": [
+   0.9
+  ],
+  "list": false
+ },
+ "click": {
+  "files": [
+   "click.wav"
+  ],
+  "vols": [
+   0.7
+  ],
+  "list": false
+ },
+ "reload": {
+  "files": [
+   "reload.wav"
+  ],
+  "vols": [
+   0.8
+  ],
+  "list": false
+ },
+ "powerup": {
+  "files": [
+   "powerup.wav"
+  ],
+  "vols": [
+   0.85
+  ],
+  "list": false
+ },
+ "wind": {
+  "files": [
+   "wind.wav"
+  ],
+  "vols": [
+   0.35
+  ],
+  "list": false
+ },
+ "groan": {
+  "files": [
+   "groan_0.wav",
+   "groan_1.wav",
+   "groan_2.wav"
+  ],
+  "vols": [
+   0.6,
+   0.6,
+   0.6
+  ],
+  "list": true
+ },
+ "die": {
+  "files": [
+   "die.wav"
+  ],
+  "vols": [
+   0.75
+  ],
+  "list": false
+ }
+}
